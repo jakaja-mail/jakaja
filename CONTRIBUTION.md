@@ -1,7 +1,8 @@
 # Contribution
 
 Contributions to this project are always welcome. If you want to make a
-contribution. 
+contribution please read the
+[CONTRIBUTION.md](https://github.com/jakaja-mail/jakaja/blob/main/CONTRIBUTION.md). 
 
 
 ## DCO
